@@ -1,24 +1,43 @@
 ---
 title: "언어 데이터의 분석과 현황"
-format: revealjs
-editor: visual
+subtitle: "with AI 집담회"
+author: "박찬엽"
+date: "2020-10-20"
+format:
+  revealjs: 
+    theme: default
 ---
 
 ## 발표자 소개
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+:::: {.columns}
 
-## Bullets
+::: {.column width="50%"}
+![](https://user-images.githubusercontent.com/6179259/196803234-94f1935d-eac7-4e0a-bdcb-a6c182893eef.jpg)
+:::
 
-When you click the **Render** button a document will be generated that includes:
+::: {.column width="50%"}
 
--   Content authored with markdown
--   Output from executable code
+### 박찬엽
 
-## Code
+- 개발자입니다   
+- [데이터홀릭][데이터홀릭] 박박사    
+- 형태소 분석 패키지 [elbird][elbird] 개발자
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+:::
 
-```{r}
-1 + 1
-```
+::::
+
+
+## 데이터홀릭
+
+![](https://user-images.githubusercontent.com/6179259/196804247-562b6fec-01e7-4168-8c1a-cdf3ad14dc7d.png)
+
+## elbird
+
+![](https://user-images.githubusercontent.com/6179259/196807475-1eb09bac-c8d5-459d-91ba-3a921eb99667.png)
+
+##
+
+[elbird]: https://mrchypark.github.io/elbird/articles/README_kr.html
+[데이터홀릭]: https://www.youtube.com/c/dataholic4
