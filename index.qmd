@@ -2,7 +2,7 @@
 title: "언어 데이터의 분석과 현황"
 subtitle: "with AI 집담회"
 author: "박찬엽"
-date: "2020-10-20"
+date: "2022-10-20"
 format:
   revealjs: 
     theme: default
@@ -20,18 +20,23 @@ format:
 
 ### 박찬엽
 
-- 개발자입니다   
+- devops/backend 개발자
 - [데이터홀릭][데이터홀릭] 박박사    
-- 형태소 분석 패키지 [elbird][elbird] 개발자
+- 형태소 분석 패키지 [elbird][elbird] 개발자    
+
+트위터: [@mrchypark_][mrchypark_]
 
 :::
 
 ::::
 
+[elbird]: https://mrchypark.github.io/elbird/articles/README_kr.html
+[데이터홀릭]: https://www.youtube.com/c/dataholic4
+[mrchypark_]: https://twitter.com/mrchypark_
 
 ## 데이터홀릭
 
-![](https://user-images.githubusercontent.com/6179259/196804247-562b6fec-01e7-4168-8c1a-cdf3ad14dc7d.png)
+![](https://user-images.githubusercontent.com/6179259/196810016-fa8b71b9-8d88-40d0-bd6f-d190e5577e46.png)
 
 ## elbird
 
@@ -39,5 +44,4 @@ format:
 
 ##
 
-[elbird]: https://mrchypark.github.io/elbird/articles/README_kr.html
-[데이터홀릭]: https://www.youtube.com/c/dataholic4
+
